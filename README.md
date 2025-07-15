@@ -1,6 +1,6 @@
 # 📉 Telco Customer Churn Analysis (End-to-End Project)
 
-This project explores customer churn behavior in a telecom company. It includes data cleaning, exploratory analysis, machine learning for churn prediction, and visualization in Power BI. The goal is to help the business understand why customers leave and how to reduce churn.
+This project explores customer churn behavior in a telecom company. It includes data cleaning, exploratory analysis, machine learning for churn prediction. The goal is to help the business understand why customers leave and how to reduce churn.
 
 ---
 
@@ -9,15 +9,13 @@ This project explores customer churn behavior in a telecom company. It includes 
 - Analyze and clean raw customer data
 - Understand churn patterns through visualizations
 - Build a machine learning model to predict customer churn
-- Create an interactive dashboard in Power BI for business stakeholders
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python** (Pandas, Seaborn, Scikit-learn)
 - **Jupyter Notebook**
-- **Power BI** (for interactive dashboards)
 - **GitHub** (for version control and sharing)
   
 ## 🔍 Steps Performed
@@ -38,13 +36,3 @@ This project explores customer churn behavior in a telecom company. It includes 
 - Achieved ~81% accuracy
 - Evaluated using confusion matrix and classification report
 
-### 4. Power BI Reporting
-- Visualized churn insights for business users
-- Included interactive filters and KPIs
-- Dashboard includes:
-  - Churn by contract
-  - Monthly charges by churn
-
----
-
-## 📊 Sample Outputs
